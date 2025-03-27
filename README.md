@@ -21,6 +21,7 @@ The dataset used for this project contains detailed financial loan records, incl
 - Differentiates between good and bad loans based on performance.  
 - Provides an overview of loan repayment trends and DTI ratios.
   
+![Image](https://github.com/user-attachments/assets/fdcd48cd-793a-4640-8275-f174e8f8a3ac)
 
 ### **2. Overview Dashboard**  
 - Monthly trend of loan applications.  
