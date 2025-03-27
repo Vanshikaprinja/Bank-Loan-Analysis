@@ -28,6 +28,7 @@ The dataset used for this project contains detailed financial loan records, incl
 - Loan applications distribution by state, employment length, and loan term.  
 - Loan applications categorized by purpose, such as debt consolidation, medical expenses, home improvement, and small business funding.  
 - Homeownership-based analysis of loan applications.  
+![Image](https://github.com/user-attachments/assets/dcdfc1ea-62f5-423a-b345-e90cf62fe520)
 
 ## **Process Followed**  
 
